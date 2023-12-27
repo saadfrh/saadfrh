@@ -47,11 +47,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="/https://www.buymeacoffee.com/saadfrh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saadfrh" /></a></p><br><br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saadfrh&show_icons=true&locale=en&theme=tokyonight" alt="saadfrh" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadfrh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saadfrh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saadfrh&show_icons=true&locale=en&theme=tokyonight" alt="saadfrh" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfrh&&theme=tokyonight" alt="saadfrh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfrh&&theme=tokyonight" alt="saadfrh" /></p>
 
 
 

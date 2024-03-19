@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/51d5a9e299aca25b11cbc20f55eba7f28c9c525b6788310dac970f9e812f7041/68747470733a2f2f66726f6764657369676e2e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f30343139323433302f41495f64657369676e696e672d776974682d646174612e676966)
+![MasterHead](https://camo.githubusercontent.com/428849a3d464b1157a940971233a54d081bfa7ea3f3a47c62d1e2854c0e19566/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966)
 <h1 align="center">Hi 👋, I'm Saad Farah</h1>
 <h3 align="center">A passionate Full stack web developer and Data Scientist enthusiast 📈👨‍💻📉</h3>
-<img align="right" alt"Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1709164800&v=beta&t=Hf1USsBEjJPot95iBH8oYf5Qt_gei81V-wgst8uFvp0"
+<img align="right" alt"Coding" width="400" src="https://files.facepunch.com/s/af07b27e3449.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadfrh&label=Profile%20views&color=0e75b6&style=flat" alt="saadfrh" /> </p>
 

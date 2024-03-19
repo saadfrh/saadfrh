@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/trendingprofit" target="blank"><img src="https://img.shields.io/twitter/follow/trendingprofit?logo=twitter&style=for-the-badge" alt="trendingprofit" /></a> </p>
 
-- 🔭 I’m currently working on [Data Science](https://github.com/saadfrh/CODSOFT)
+- 🔭 I’m currently working on [GIS - Deep learning - Computer Vision](https://github.com/saadfrh/CODSOFT)
 
 - 🌱 I’m currently learning **Machine Learning & deep Learning**
 
